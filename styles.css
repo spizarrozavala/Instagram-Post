@@ -1,0 +1,56 @@
+body {
+	background-color: black;
+}
+.instagram{
+	width: 450px;
+	height: 580px;
+	margin: auto;
+	background-color: white;
+}
+.head-right{
+	width: 100%;
+	height: 40px;
+	display: flex;
+	padding: 15px;
+}
+.head-right #html5{
+	width: 5%;
+}
+.head-right #html5 i{
+	font-size: 28px;
+}
+.head-right #span{
+	width: 70%;
+	font-size: 12px;
+	margin-left: 3px;
+}
+.head-left{
+	width: 20%;
+	float: right;
+	justify-content: flex-end;
+	margin-left: 250px;
+}
+.body{
+	height: 290px;
+	width: 100%;
+	padding: 0;
+}
+.body img{
+	width: 100%;
+	height: 290px;
+}
+.footer{
+	font-size: 16.5px;
+	padding: 15px;
+}
+.footer .flex {
+	display: flex;
+	font-size: 12px;
+}
+.flex #icons-left{
+	width: 100%;
+}
+#icons-left i{
+	margin-left: 6px;
+	padding: 0
+}
